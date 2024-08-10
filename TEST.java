@@ -28,7 +28,7 @@ public class TEST {
         if (tests(s)) {
             System.out.println("YES");
             
-        }else System.out.println("no");
+        }else System.out.println("no my name is rajdeep ");
     }
     
 }
