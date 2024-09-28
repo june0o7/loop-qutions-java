@@ -7,6 +7,7 @@ public class page_9_52 {
             while (n>0) {
                 int rm = n%2;
 <<<<<<< HEAD
+<<<<<<< HEAD
                 return true;
 
                 
@@ -17,6 +18,12 @@ public class page_9_52 {
                 
             }
 >>>>>>> 1f1d052 (i have commited)
+=======
+             return false;
+                
+            }
+            return true;
+>>>>>>> b63c4a9 (error less update)
     }
     public static void main(String[] args) {
 
