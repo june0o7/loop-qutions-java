@@ -6,11 +6,17 @@ public class page_9_52 {
             int c = 0;
             while (n>0) {
                 int rm = n%2;
+<<<<<<< HEAD
                 return true;
 
                 
             }
             return false;
+=======
+
+                
+            }
+>>>>>>> 1f1d052 (i have commited)
     }
     public static void main(String[] args) {
 
